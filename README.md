@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeonhyunjun</h1>
+<h1 align="center">HelloWorld👋, I'm Jeonhyunjun</h1>
 <h3 align="center">I'm a high school student living in Korea studying machine learning and backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonhyunjun&label=Profile%20views&color=0e75b6&style=flat" alt="jeonhyunjun" /> </p>
