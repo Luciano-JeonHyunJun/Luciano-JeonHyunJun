@@ -1,5 +1,5 @@
 <h1 align="center">HelloWorld👋, I'm Jeonhyunjun</h1>
-<h3 align="center">I'm a high school student living in Korea studying machine learning and backend</h3>
+<h3 align="center">I'm a high school student living in South Korea studying machine learning and backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonhyunjun&label=Profile%20views&color=0e75b6&style=flat" alt="jeonhyunjun" /> </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuciano-JeonHyunJun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
