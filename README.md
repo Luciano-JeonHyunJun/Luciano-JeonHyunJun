@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **🐍PYTHON🐍**
 
-- 🤝 I’m looking for help with [Python_Algorithm](https://github.com/Luciano-JeonHyunJun/Python_Algorithm)
+- 🤝 I’m looking for help with [CPlusPlus_Algorithms](https://github.com/Luciano-JeonHyunJun/CPlusPlus_Algorithms)
 
 - 📫 How to reach me **hyunjun050915@gmail.com**
 
