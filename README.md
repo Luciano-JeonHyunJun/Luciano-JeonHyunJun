@@ -36,7 +36,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-JeonHyunJun&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luciano-JeonHyunJun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
