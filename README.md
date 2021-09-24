@@ -27,11 +27,18 @@
 <hr>
 
 ### My Github Stats
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-JeonHyunJun)](https://github.com/anuraghazra/github-readme-stats)
+
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj050915)](https://solved.ac/jhj050915)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-JeonHyunJun&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luciano-JeonHyunJun)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
    
    
