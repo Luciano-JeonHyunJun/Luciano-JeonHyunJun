@@ -20,7 +20,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
   <p align="center">
- <a href="https://velog.io/@jhj091542"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@jhj091542"/>
+ <a href="https://dev-hyunjun-2005.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://dev-hyunjun-2005.tistory.com/"/>
  <a href="mailto:hyunjun050915@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyunjun050915@gmail.com"/></a> 
    </p>
   
