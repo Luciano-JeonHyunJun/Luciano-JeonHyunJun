@@ -5,7 +5,11 @@ I'm Hyunjun Jeon, aka Luciano. I live in South Korea and study machine learning.
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=luciano)](https://solved.ac/luciano)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuciano-JeonHyunJun&count_bg=%23FFFFFF&title_bg=%23555555&icon=tensorflow.svg&icon_color=%23FFA800&title=Luciano+Page&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<br><a href="https://www.linkedin.com/in/jeon-hyunjun-7aab68294/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TechBlog&theme={insert_theme})](https://dev-hyunjun-2005.tistory.com)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+will+revolutionize+the+world.)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi👋🏻%20there!&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20am%20Luciano☺️%&fontSize=90) <br>
