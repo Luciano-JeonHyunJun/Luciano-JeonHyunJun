@@ -10,7 +10,7 @@ I'm Hyunjun Jeon, aka Luciano. I live in South Korea and study machine learning.
   <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TechBlog&theme={insert_theme})](https://dev-hyunjun-2005.tistory.com)<br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+will+revolutionize+the+world.)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi👋🏻%20there!&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20am%20Luciano☺️%&fontSize=90) <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
